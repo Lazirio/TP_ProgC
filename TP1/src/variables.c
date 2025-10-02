@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-char a="a";
+char a='a';
 short b=1;
 int c=2;
 long d=3;
