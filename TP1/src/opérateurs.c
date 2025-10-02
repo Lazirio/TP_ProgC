@@ -13,6 +13,8 @@ int main() {
     printf("a / b = %f\n", a / b);
     printf("a %% b = %f\n", (float)((int)a % (int)b));
     printf("a ^ b = %f\n", pow(a, b));
+    printf("a == b = %d\n", a == b);
+    printf("a > b = %d\n", a > b);
     return 0;
 }
 
