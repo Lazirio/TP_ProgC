@@ -20,7 +20,7 @@ signed short q;
 unsigned char r;
 signed char s;
 
-sizeof_types() {
+int main() {
     printf("sizeof(char) = %zu\n", sizeof(a));
     printf("sizeof(short) = %zu\n", sizeof(b));
     printf("sizeof(int) = %zu\n", sizeof(c));
